@@ -4,6 +4,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+<p align="center">
+  <a href="https://github.com/AtillaErsezen/FastImgDataset/blob/main/assets/demo.mp4"><img src="https://raw.githubusercontent.com/AtillaErsezen/FastImgDataset/main/assets/demo.jpg" alt="Watch the demo video" width="720"></a>
+  <br><sub>▶ Click to watch the 22s demo</sub>
+</p>
+
 A Chrome extension for quickly building image classification datasets from Google Images. Toggle it on, right-click any image, and it downloads instantly — auto-sorted into a folder and numbered by your search query, no save dialog required.
 
 ## Why
